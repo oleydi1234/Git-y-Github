@@ -1,0 +1,7 @@
+git checkout -- . (reconstruir el proyecto a como estaba en el ultimo commit)
+git branch -m master main (renombrar rama)
+git config --global init.defaultBranch main (Inicia un repositorio con el nombre de la rama main)
+git reset README.md (baja del git add el archivo readme)
+git commit -am "" (git add + git commit)
+
+
